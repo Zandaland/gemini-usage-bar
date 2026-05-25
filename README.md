@@ -1,6 +1,6 @@
 # Gemini Usage Bar 📊
 
-A premium Chrome extension that embeds a real-time, theme-adaptive usage limits indicator directly into the Google Gemini chat interface.
+A premium Chrome extension that embeds a real-time, theme-adaptive usage limits indicator directly into the Google Gemini chat interface. It tracks your remaining limits and automatically refreshes after every prompt completion.
 
 ![Gemini Usage Bar Icon](icon.png)
 
